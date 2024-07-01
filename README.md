@@ -53,8 +53,6 @@ If you like this project, Please click the :star: and Pull Request are highly ap
 [Rushi Patel ] (https://www.linkedin.com/in/rushi-patel-193079266/)
 
 
-</table>
-
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
